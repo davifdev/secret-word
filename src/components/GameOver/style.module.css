@@ -1,0 +1,8 @@
+.gameOver div {
+  margin-bottom: 1rem;
+}
+
+.gameOver div span {
+  color: #ecfa00;
+  font-weight: bold;
+}
